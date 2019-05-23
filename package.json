@@ -1,6 +1,6 @@
 {
   "name": "icheck",
-  "version": "1.0.2.1",
+  "version": "1.0.3",
   "description": "Refer to the [iCheck website](http://fronteed.com/iCheck/) for examples.",
   "main": "icheck.js",
   "scripts": {
